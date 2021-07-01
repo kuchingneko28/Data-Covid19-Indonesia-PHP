@@ -18,14 +18,14 @@ foreach ($result['list_data'] as $data)
     $print6 = "- Jumlah dirawat : ". $data['jumlah_dirawat']. "\n";
     $print7 = "[+] Kasus Penambahan\n";
     $print8 = "- Penambahan positif : ". $data['penambahan']['positif']. "\n";
-    $print9 = "- Penambahan Sembuh : ". $data['penambahan']['sembuh']. "\n";
-    $print10 = "- Penambahan Meninggal : ". $data['penambahan']['meninggal']. "\n\n";
+    $print9 = "- Penambahan sembuh : ". $data['penambahan']['sembuh']. "\n";
+    $print10 = "- Penambahan meninggal : ". $data['penambahan']['meninggal']. "\n\n";
 
     $gabung = $print1.$print2.$print3.$print4.$print5.$print6.$print7.$print8.$print9.$print10;
     
-    $myfile = fopen($tanggal_sekarang.".txt","a");
-    fwrite($myfile, $gabung);
-    fclose($myfile);
+    $txt = fopen($tanggal_sekarang.".txt","a");
+    fwrite($txt, $gabung);
+    fclose($txt);
     echo file_get_contents($tanggal_sekarang.".txt");
     
 }
