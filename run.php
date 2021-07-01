@@ -1,10 +1,11 @@
 <?php
-date_default_timezone_set("Asia/Makassar");
 include "./curl.php";
+date_default_timezone_set("Asia/Makassar");
+$tanggal_sekarang = date("D-M-Y");
 
 $url = "https://data.covid19.go.id/public/api/prov.json";
 
-$run = getApi($url);
+$run = getUrl($url);
 
 $result = json_decode($run,true);
 foreach ($result['list_data'] as $data)
@@ -22,7 +23,6 @@ foreach ($result['list_data'] as $data)
 
     $gabung = $print1.$print2.$print3.$print4.$print5.$print6.$print7.$print8.$print9.$print10;
     
-    $tanggal_sekarang = date("D-M-Y");
     $myfile = fopen($tanggal_sekarang.".txt","a");
     fwrite($myfile, $gabung);
     fclose($myfile);
