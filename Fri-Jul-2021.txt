@@ -1,0 +1,1188 @@
+[+] DKI JAKARTA
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 482264
+- Jumlah sembuh : 441821
+- Jumlah meninggal : 7922
+- Jumlah dirawat : 32521
+[+] Kasus Penambahan
+- Penambahan positif : 3221
+- Penambahan Sembuh : 3481
+- Penambahan Meninggal : 59
+
+[+] JAWA BARAT
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 350719
+- Jumlah sembuh : 313526
+- Jumlah meninggal : 4708
+- Jumlah dirawat : 32485
+[+] Kasus Penambahan
+- Penambahan positif : 3432
+- Penambahan Sembuh : 994
+- Penambahan Meninggal : 69
+
+[+] JAWA TENGAH
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 232839
+- Jumlah sembuh : 195130
+- Jumlah meninggal : 10025
+- Jumlah dirawat : 27684
+[+] Kasus Penambahan
+- Penambahan positif : 2439
+- Penambahan Sembuh : 1670
+- Penambahan Meninggal : 71
+
+[+] JAWA TIMUR
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 165013
+- Jumlah sembuh : 147245
+- Jumlah meninggal : 12095
+- Jumlah dirawat : 5673
+[+] Kasus Penambahan
+- Penambahan positif : 746
+- Penambahan Sembuh : 383
+- Penambahan Meninggal : 41
+
+[+] KALIMANTAN TIMUR
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 74069
+- Jumlah sembuh : 70701
+- Jumlah meninggal : 1764
+- Jumlah dirawat : 1604
+[+] Kasus Penambahan
+- Penambahan positif : 245
+- Penambahan Sembuh : 121
+- Penambahan Meninggal : 5
+
+[+] RIAU
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 68154
+- Jumlah sembuh : 63483
+- Jumlah meninggal : 1851
+- Jumlah dirawat : 2820
+[+] Kasus Penambahan
+- Penambahan positif : 224
+- Penambahan Sembuh : 360
+- Penambahan Meninggal : 7
+
+[+] SULAWESI SELATAN
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 63160
+- Jumlah sembuh : 61459
+- Jumlah meninggal : 964
+- Jumlah dirawat : 737
+[+] Kasus Penambahan
+- Penambahan positif : 130
+- Penambahan Sembuh : 22
+- Penambahan Meninggal : 1
+
+[+] DAERAH ISTIMEWA YOGYAKARTA
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 53978
+- Jumlah sembuh : 46116
+- Jumlah meninggal : 1395
+- Jumlah dirawat : 6467
+[+] Kasus Penambahan
+- Penambahan positif : 675
+- Penambahan Sembuh : 260
+- Penambahan Meninggal : 15
+
+[+] BANTEN
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 53472
+- Jumlah sembuh : 48600
+- Jumlah meninggal : 1323
+- Jumlah dirawat : 3549
+[+] Kasus Penambahan
+- Penambahan positif : 462
+- Penambahan Sembuh : 233
+- Penambahan Meninggal : 3
+
+[+] SUMATERA BARAT
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 49206
+- Jumlah sembuh : 45394
+- Jumlah meninggal : 1136
+- Jumlah dirawat : 2676
+[+] Kasus Penambahan
+- Penambahan positif : 188
+- Penambahan Sembuh : 158
+- Penambahan Meninggal : 7
+
+[+] BALI
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 48562
+- Jumlah sembuh : 46123
+- Jumlah meninggal : 1536
+- Jumlah dirawat : 903
+[+] Kasus Penambahan
+- Penambahan positif : 128
+- Penambahan Sembuh : 0
+- Penambahan Meninggal : 0
+
+[+] KALIMANTAN SELATAN
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 35607
+- Jumlah sembuh : 33913
+- Jumlah meninggal : 1053
+- Jumlah dirawat : 641
+[+] Kasus Penambahan
+- Penambahan positif : 37
+- Penambahan Sembuh : 21
+- Penambahan Meninggal : 1
+
+[+] SUMATERA UTARA
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 34869
+- Jumlah sembuh : 30801
+- Jumlah meninggal : 1158
+- Jumlah dirawat : 2910
+[+] Kasus Penambahan
+- Penambahan positif : 298
+- Penambahan Sembuh : 183
+- Penambahan Meninggal : 10
+
+[+] SUMATERA SELATAN
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 27370
+- Jumlah sembuh : 24649
+- Jumlah meninggal : 1386
+- Jumlah dirawat : 1335
+[+] Kasus Penambahan
+- Penambahan positif : 151
+- Penambahan Sembuh : 88
+- Penambahan Meninggal : 7
+
+[+] KALIMANTAN TENGAH
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 24570
+- Jumlah sembuh : 20355
+- Jumlah meninggal : 529
+- Jumlah dirawat : 3686
+[+] Kasus Penambahan
+- Penambahan positif : 135
+- Penambahan Sembuh : 17
+- Penambahan Meninggal : 1
+
+[+] KEPULAUAN RIAU
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 22680
+- Jumlah sembuh : 18844
+- Jumlah meninggal : 468
+- Jumlah dirawat : 3368
+[+] Kasus Penambahan
+- Penambahan positif : 153
+- Penambahan Sembuh : 26
+- Penambahan Meninggal : 2
+
+[+] PAPUA
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 20720
+- Jumlah sembuh : 11571
+- Jumlah meninggal : 213
+- Jumlah dirawat : 8936
+[+] Kasus Penambahan
+- Penambahan positif : 37
+- Penambahan Sembuh : 0
+- Penambahan Meninggal : 0
+
+[+] LAMPUNG
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 20392
+- Jumlah sembuh : 18070
+- Jumlah meninggal : 1086
+- Jumlah dirawat : 1236
+[+] Kasus Penambahan
+- Penambahan positif : 72
+- Penambahan Sembuh : 121
+- Penambahan Meninggal : 4
+
+[+] KEPULAUAN BANGKA BELITUNG
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 20336
+- Jumlah sembuh : 19318
+- Jumlah meninggal : 321
+- Jumlah dirawat : 697
+[+] Kasus Penambahan
+- Penambahan positif : 89
+- Penambahan Sembuh : 75
+- Penambahan Meninggal : 2
+
+[+] ACEH
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 18439
+- Jumlah sembuh : 14100
+- Jumlah meninggal : 745
+- Jumlah dirawat : 3594
+[+] Kasus Penambahan
+- Penambahan positif : 63
+- Penambahan Sembuh : 79
+- Penambahan Meninggal : 10
+
+[+] NUSA TENGGARA TIMUR
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 17468
+- Jumlah sembuh : 16153
+- Jumlah meninggal : 451
+- Jumlah dirawat : 864
+[+] Kasus Penambahan
+- Penambahan positif : 97
+- Penambahan Sembuh : 21
+- Penambahan Meninggal : 0
+
+[+] SULAWESI UTARA
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 16008
+- Jumlah sembuh : 15211
+- Jumlah meninggal : 551
+- Jumlah dirawat : 246
+[+] Kasus Penambahan
+- Penambahan positif : 39
+- Penambahan Sembuh : 16
+- Penambahan Meninggal : 1
+
+[+] KALIMANTAN BARAT
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 13367
+- Jumlah sembuh : 12167
+- Jumlah meninggal : 170
+- Jumlah dirawat : 1030
+[+] Kasus Penambahan
+- Penambahan positif : 125
+- Penambahan Sembuh : 117
+- Penambahan Meninggal : 14
+
+[+] SULAWESI TENGAH
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 13260
+- Jumlah sembuh : 12621
+- Jumlah meninggal : 387
+- Jumlah dirawat : 252
+[+] Kasus Penambahan
+- Penambahan positif : 23
+- Penambahan Sembuh : 16
+- Penambahan Meninggal : 0
+
+[+] NUSA TENGGARA BARAT
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 12803
+- Jumlah sembuh : 10619
+- Jumlah meninggal : 483
+- Jumlah dirawat : 1701
+[+] Kasus Penambahan
+- Penambahan positif : 11
+- Penambahan Sembuh : 43
+- Penambahan Meninggal : 0
+
+[+] KALIMANTAN UTARA
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 12707
+- Jumlah sembuh : 11867
+- Jumlah meninggal : 195
+- Jumlah dirawat : 645
+[+] Kasus Penambahan
+- Penambahan positif : 40
+- Penambahan Sembuh : 0
+- Penambahan Meninggal : 0
+
+[+] JAMBI
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 12171
+- Jumlah sembuh : 10021
+- Jumlah meninggal : 233
+- Jumlah dirawat : 1917
+[+] Kasus Penambahan
+- Penambahan positif : 141
+- Penambahan Sembuh : 140
+- Penambahan Meninggal : 3
+
+[+] SULAWESI TENGGARA
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 10791
+- Jumlah sembuh : 10154
+- Jumlah meninggal : 223
+- Jumlah dirawat : 414
+[+] Kasus Penambahan
+- Penambahan positif : 64
+- Penambahan Sembuh : 5
+- Penambahan Meninggal : 0
+
+[+] PAPUA BARAT
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 9725
+- Jumlah sembuh : 9285
+- Jumlah meninggal : 178
+- Jumlah dirawat : 262
+[+] Kasus Penambahan
+- Penambahan positif : 24
+- Penambahan Sembuh : 15
+- Penambahan Meninggal : 0
+
+[+] BENGKULU
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 9178
+- Jumlah sembuh : 8221
+- Jumlah meninggal : 187
+- Jumlah dirawat : 770
+[+] Kasus Penambahan
+- Penambahan positif : 101
+- Penambahan Sembuh : 0
+- Penambahan Meninggal : 0
+
+[+] MALUKU
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 8097
+- Jumlah sembuh : 7552
+- Jumlah meninggal : 133
+- Jumlah dirawat : 412
+[+] Kasus Penambahan
+- Penambahan positif : 40
+- Penambahan Sembuh : 64
+- Penambahan Meninggal : 0
+
+[+] GORONTALO
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 5690
+- Jumlah sembuh : 5341
+- Jumlah meninggal : 180
+- Jumlah dirawat : 169
+[+] Kasus Penambahan
+- Penambahan positif : 0
+- Penambahan Sembuh : 1
+- Penambahan Meninggal : 0
+
+[+] SULAWESI BARAT
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 5667
+- Jumlah sembuh : 5445
+- Jumlah meninggal : 121
+- Jumlah dirawat : 101
+[+] Kasus Penambahan
+- Penambahan positif : 3
+- Penambahan Sembuh : 0
+- Penambahan Meninggal : 0
+
+[+] MALUKU UTARA
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 4749
+- Jumlah sembuh : 4478
+- Jumlah meninggal : 123
+- Jumlah dirawat : 148
+[+] Kasus Penambahan
+- Penambahan positif : 36
+- Penambahan Sembuh : 3
+- Penambahan Meninggal : 0
+
+[+] SUMATERA_SELATAN
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 11
+- Jumlah sembuh : 6
+- Jumlah meninggal : 0
+- Jumlah dirawat : 5
+[+] Kasus Penambahan
+- Penambahan positif : 0
+- Penambahan Sembuh : 6
+- Penambahan Meninggal : 0
+
+[+] B`
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 1
+- Jumlah sembuh : 0
+- Jumlah meninggal : 0
+- Jumlah dirawat : 1
+[+] Kasus Penambahan
+- Penambahan positif : 0
+- Penambahan Sembuh : 0
+- Penambahan Meninggal : 0
+
+[+] DKI JAKARTA
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 482264
+- Jumlah sembuh : 441821
+- Jumlah meninggal : 7922
+- Jumlah dirawat : 32521
+[+] Kasus Penambahan
+- Penambahan positif : 3221
+- Penambahan Sembuh : 3481
+- Penambahan Meninggal : 59
+
+[+] JAWA BARAT
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 350719
+- Jumlah sembuh : 313526
+- Jumlah meninggal : 4708
+- Jumlah dirawat : 32485
+[+] Kasus Penambahan
+- Penambahan positif : 3432
+- Penambahan Sembuh : 994
+- Penambahan Meninggal : 69
+
+[+] JAWA TENGAH
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 232839
+- Jumlah sembuh : 195130
+- Jumlah meninggal : 10025
+- Jumlah dirawat : 27684
+[+] Kasus Penambahan
+- Penambahan positif : 2439
+- Penambahan Sembuh : 1670
+- Penambahan Meninggal : 71
+
+[+] JAWA TIMUR
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 165013
+- Jumlah sembuh : 147245
+- Jumlah meninggal : 12095
+- Jumlah dirawat : 5673
+[+] Kasus Penambahan
+- Penambahan positif : 746
+- Penambahan Sembuh : 383
+- Penambahan Meninggal : 41
+
+[+] KALIMANTAN TIMUR
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 74069
+- Jumlah sembuh : 70701
+- Jumlah meninggal : 1764
+- Jumlah dirawat : 1604
+[+] Kasus Penambahan
+- Penambahan positif : 245
+- Penambahan Sembuh : 121
+- Penambahan Meninggal : 5
+
+[+] RIAU
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 68154
+- Jumlah sembuh : 63483
+- Jumlah meninggal : 1851
+- Jumlah dirawat : 2820
+[+] Kasus Penambahan
+- Penambahan positif : 224
+- Penambahan Sembuh : 360
+- Penambahan Meninggal : 7
+
+[+] SULAWESI SELATAN
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 63160
+- Jumlah sembuh : 61459
+- Jumlah meninggal : 964
+- Jumlah dirawat : 737
+[+] Kasus Penambahan
+- Penambahan positif : 130
+- Penambahan Sembuh : 22
+- Penambahan Meninggal : 1
+
+[+] DAERAH ISTIMEWA YOGYAKARTA
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 53978
+- Jumlah sembuh : 46116
+- Jumlah meninggal : 1395
+- Jumlah dirawat : 6467
+[+] Kasus Penambahan
+- Penambahan positif : 675
+- Penambahan Sembuh : 260
+- Penambahan Meninggal : 15
+
+[+] BANTEN
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 53472
+- Jumlah sembuh : 48600
+- Jumlah meninggal : 1323
+- Jumlah dirawat : 3549
+[+] Kasus Penambahan
+- Penambahan positif : 462
+- Penambahan Sembuh : 233
+- Penambahan Meninggal : 3
+
+[+] SUMATERA BARAT
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 49206
+- Jumlah sembuh : 45394
+- Jumlah meninggal : 1136
+- Jumlah dirawat : 2676
+[+] Kasus Penambahan
+- Penambahan positif : 188
+- Penambahan Sembuh : 158
+- Penambahan Meninggal : 7
+
+[+] BALI
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 48562
+- Jumlah sembuh : 46123
+- Jumlah meninggal : 1536
+- Jumlah dirawat : 903
+[+] Kasus Penambahan
+- Penambahan positif : 128
+- Penambahan Sembuh : 0
+- Penambahan Meninggal : 0
+
+[+] KALIMANTAN SELATAN
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 35607
+- Jumlah sembuh : 33913
+- Jumlah meninggal : 1053
+- Jumlah dirawat : 641
+[+] Kasus Penambahan
+- Penambahan positif : 37
+- Penambahan Sembuh : 21
+- Penambahan Meninggal : 1
+
+[+] SUMATERA UTARA
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 34869
+- Jumlah sembuh : 30801
+- Jumlah meninggal : 1158
+- Jumlah dirawat : 2910
+[+] Kasus Penambahan
+- Penambahan positif : 298
+- Penambahan Sembuh : 183
+- Penambahan Meninggal : 10
+
+[+] SUMATERA SELATAN
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 27370
+- Jumlah sembuh : 24649
+- Jumlah meninggal : 1386
+- Jumlah dirawat : 1335
+[+] Kasus Penambahan
+- Penambahan positif : 151
+- Penambahan Sembuh : 88
+- Penambahan Meninggal : 7
+
+[+] KALIMANTAN TENGAH
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 24570
+- Jumlah sembuh : 20355
+- Jumlah meninggal : 529
+- Jumlah dirawat : 3686
+[+] Kasus Penambahan
+- Penambahan positif : 135
+- Penambahan Sembuh : 17
+- Penambahan Meninggal : 1
+
+[+] KEPULAUAN RIAU
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 22680
+- Jumlah sembuh : 18844
+- Jumlah meninggal : 468
+- Jumlah dirawat : 3368
+[+] Kasus Penambahan
+- Penambahan positif : 153
+- Penambahan Sembuh : 26
+- Penambahan Meninggal : 2
+
+[+] PAPUA
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 20720
+- Jumlah sembuh : 11571
+- Jumlah meninggal : 213
+- Jumlah dirawat : 8936
+[+] Kasus Penambahan
+- Penambahan positif : 37
+- Penambahan Sembuh : 0
+- Penambahan Meninggal : 0
+
+[+] LAMPUNG
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 20392
+- Jumlah sembuh : 18070
+- Jumlah meninggal : 1086
+- Jumlah dirawat : 1236
+[+] Kasus Penambahan
+- Penambahan positif : 72
+- Penambahan Sembuh : 121
+- Penambahan Meninggal : 4
+
+[+] KEPULAUAN BANGKA BELITUNG
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 20336
+- Jumlah sembuh : 19318
+- Jumlah meninggal : 321
+- Jumlah dirawat : 697
+[+] Kasus Penambahan
+- Penambahan positif : 89
+- Penambahan Sembuh : 75
+- Penambahan Meninggal : 2
+
+[+] ACEH
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 18439
+- Jumlah sembuh : 14100
+- Jumlah meninggal : 745
+- Jumlah dirawat : 3594
+[+] Kasus Penambahan
+- Penambahan positif : 63
+- Penambahan Sembuh : 79
+- Penambahan Meninggal : 10
+
+[+] NUSA TENGGARA TIMUR
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 17468
+- Jumlah sembuh : 16153
+- Jumlah meninggal : 451
+- Jumlah dirawat : 864
+[+] Kasus Penambahan
+- Penambahan positif : 97
+- Penambahan Sembuh : 21
+- Penambahan Meninggal : 0
+
+[+] SULAWESI UTARA
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 16008
+- Jumlah sembuh : 15211
+- Jumlah meninggal : 551
+- Jumlah dirawat : 246
+[+] Kasus Penambahan
+- Penambahan positif : 39
+- Penambahan Sembuh : 16
+- Penambahan Meninggal : 1
+
+[+] KALIMANTAN BARAT
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 13367
+- Jumlah sembuh : 12167
+- Jumlah meninggal : 170
+- Jumlah dirawat : 1030
+[+] Kasus Penambahan
+- Penambahan positif : 125
+- Penambahan Sembuh : 117
+- Penambahan Meninggal : 14
+
+[+] SULAWESI TENGAH
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 13260
+- Jumlah sembuh : 12621
+- Jumlah meninggal : 387
+- Jumlah dirawat : 252
+[+] Kasus Penambahan
+- Penambahan positif : 23
+- Penambahan Sembuh : 16
+- Penambahan Meninggal : 0
+
+[+] NUSA TENGGARA BARAT
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 12803
+- Jumlah sembuh : 10619
+- Jumlah meninggal : 483
+- Jumlah dirawat : 1701
+[+] Kasus Penambahan
+- Penambahan positif : 11
+- Penambahan Sembuh : 43
+- Penambahan Meninggal : 0
+
+[+] KALIMANTAN UTARA
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 12707
+- Jumlah sembuh : 11867
+- Jumlah meninggal : 195
+- Jumlah dirawat : 645
+[+] Kasus Penambahan
+- Penambahan positif : 40
+- Penambahan Sembuh : 0
+- Penambahan Meninggal : 0
+
+[+] JAMBI
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 12171
+- Jumlah sembuh : 10021
+- Jumlah meninggal : 233
+- Jumlah dirawat : 1917
+[+] Kasus Penambahan
+- Penambahan positif : 141
+- Penambahan Sembuh : 140
+- Penambahan Meninggal : 3
+
+[+] SULAWESI TENGGARA
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 10791
+- Jumlah sembuh : 10154
+- Jumlah meninggal : 223
+- Jumlah dirawat : 414
+[+] Kasus Penambahan
+- Penambahan positif : 64
+- Penambahan Sembuh : 5
+- Penambahan Meninggal : 0
+
+[+] PAPUA BARAT
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 9725
+- Jumlah sembuh : 9285
+- Jumlah meninggal : 178
+- Jumlah dirawat : 262
+[+] Kasus Penambahan
+- Penambahan positif : 24
+- Penambahan Sembuh : 15
+- Penambahan Meninggal : 0
+
+[+] BENGKULU
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 9178
+- Jumlah sembuh : 8221
+- Jumlah meninggal : 187
+- Jumlah dirawat : 770
+[+] Kasus Penambahan
+- Penambahan positif : 101
+- Penambahan Sembuh : 0
+- Penambahan Meninggal : 0
+
+[+] MALUKU
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 8097
+- Jumlah sembuh : 7552
+- Jumlah meninggal : 133
+- Jumlah dirawat : 412
+[+] Kasus Penambahan
+- Penambahan positif : 40
+- Penambahan Sembuh : 64
+- Penambahan Meninggal : 0
+
+[+] GORONTALO
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 5690
+- Jumlah sembuh : 5341
+- Jumlah meninggal : 180
+- Jumlah dirawat : 169
+[+] Kasus Penambahan
+- Penambahan positif : 0
+- Penambahan Sembuh : 1
+- Penambahan Meninggal : 0
+
+[+] SULAWESI BARAT
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 5667
+- Jumlah sembuh : 5445
+- Jumlah meninggal : 121
+- Jumlah dirawat : 101
+[+] Kasus Penambahan
+- Penambahan positif : 3
+- Penambahan Sembuh : 0
+- Penambahan Meninggal : 0
+
+[+] MALUKU UTARA
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 4749
+- Jumlah sembuh : 4478
+- Jumlah meninggal : 123
+- Jumlah dirawat : 148
+[+] Kasus Penambahan
+- Penambahan positif : 36
+- Penambahan Sembuh : 3
+- Penambahan Meninggal : 0
+
+[+] SUMATERA_SELATAN
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 11
+- Jumlah sembuh : 6
+- Jumlah meninggal : 0
+- Jumlah dirawat : 5
+[+] Kasus Penambahan
+- Penambahan positif : 0
+- Penambahan Sembuh : 6
+- Penambahan Meninggal : 0
+
+[+] B`
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 1
+- Jumlah sembuh : 0
+- Jumlah meninggal : 0
+- Jumlah dirawat : 1
+[+] Kasus Penambahan
+- Penambahan positif : 0
+- Penambahan Sembuh : 0
+- Penambahan Meninggal : 0
+
+[+] DKI JAKARTA
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 482264
+- Jumlah sembuh : 441821
+- Jumlah meninggal : 7922
+- Jumlah dirawat : 32521
+[+] Kasus Penambahan
+- Penambahan positif : 3221
+- Penambahan Sembuh : 3481
+- Penambahan Meninggal : 59
+
+[+] JAWA BARAT
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 350719
+- Jumlah sembuh : 313526
+- Jumlah meninggal : 4708
+- Jumlah dirawat : 32485
+[+] Kasus Penambahan
+- Penambahan positif : 3432
+- Penambahan Sembuh : 994
+- Penambahan Meninggal : 69
+
+[+] JAWA TENGAH
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 232839
+- Jumlah sembuh : 195130
+- Jumlah meninggal : 10025
+- Jumlah dirawat : 27684
+[+] Kasus Penambahan
+- Penambahan positif : 2439
+- Penambahan Sembuh : 1670
+- Penambahan Meninggal : 71
+
+[+] JAWA TIMUR
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 165013
+- Jumlah sembuh : 147245
+- Jumlah meninggal : 12095
+- Jumlah dirawat : 5673
+[+] Kasus Penambahan
+- Penambahan positif : 746
+- Penambahan Sembuh : 383
+- Penambahan Meninggal : 41
+
+[+] KALIMANTAN TIMUR
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 74069
+- Jumlah sembuh : 70701
+- Jumlah meninggal : 1764
+- Jumlah dirawat : 1604
+[+] Kasus Penambahan
+- Penambahan positif : 245
+- Penambahan Sembuh : 121
+- Penambahan Meninggal : 5
+
+[+] RIAU
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 68154
+- Jumlah sembuh : 63483
+- Jumlah meninggal : 1851
+- Jumlah dirawat : 2820
+[+] Kasus Penambahan
+- Penambahan positif : 224
+- Penambahan Sembuh : 360
+- Penambahan Meninggal : 7
+
+[+] SULAWESI SELATAN
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 63160
+- Jumlah sembuh : 61459
+- Jumlah meninggal : 964
+- Jumlah dirawat : 737
+[+] Kasus Penambahan
+- Penambahan positif : 130
+- Penambahan Sembuh : 22
+- Penambahan Meninggal : 1
+
+[+] DAERAH ISTIMEWA YOGYAKARTA
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 53978
+- Jumlah sembuh : 46116
+- Jumlah meninggal : 1395
+- Jumlah dirawat : 6467
+[+] Kasus Penambahan
+- Penambahan positif : 675
+- Penambahan Sembuh : 260
+- Penambahan Meninggal : 15
+
+[+] BANTEN
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 53472
+- Jumlah sembuh : 48600
+- Jumlah meninggal : 1323
+- Jumlah dirawat : 3549
+[+] Kasus Penambahan
+- Penambahan positif : 462
+- Penambahan Sembuh : 233
+- Penambahan Meninggal : 3
+
+[+] SUMATERA BARAT
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 49206
+- Jumlah sembuh : 45394
+- Jumlah meninggal : 1136
+- Jumlah dirawat : 2676
+[+] Kasus Penambahan
+- Penambahan positif : 188
+- Penambahan Sembuh : 158
+- Penambahan Meninggal : 7
+
+[+] BALI
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 48562
+- Jumlah sembuh : 46123
+- Jumlah meninggal : 1536
+- Jumlah dirawat : 903
+[+] Kasus Penambahan
+- Penambahan positif : 128
+- Penambahan Sembuh : 0
+- Penambahan Meninggal : 0
+
+[+] KALIMANTAN SELATAN
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 35607
+- Jumlah sembuh : 33913
+- Jumlah meninggal : 1053
+- Jumlah dirawat : 641
+[+] Kasus Penambahan
+- Penambahan positif : 37
+- Penambahan Sembuh : 21
+- Penambahan Meninggal : 1
+
+[+] SUMATERA UTARA
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 34869
+- Jumlah sembuh : 30801
+- Jumlah meninggal : 1158
+- Jumlah dirawat : 2910
+[+] Kasus Penambahan
+- Penambahan positif : 298
+- Penambahan Sembuh : 183
+- Penambahan Meninggal : 10
+
+[+] SUMATERA SELATAN
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 27370
+- Jumlah sembuh : 24649
+- Jumlah meninggal : 1386
+- Jumlah dirawat : 1335
+[+] Kasus Penambahan
+- Penambahan positif : 151
+- Penambahan Sembuh : 88
+- Penambahan Meninggal : 7
+
+[+] KALIMANTAN TENGAH
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 24570
+- Jumlah sembuh : 20355
+- Jumlah meninggal : 529
+- Jumlah dirawat : 3686
+[+] Kasus Penambahan
+- Penambahan positif : 135
+- Penambahan Sembuh : 17
+- Penambahan Meninggal : 1
+
+[+] KEPULAUAN RIAU
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 22680
+- Jumlah sembuh : 18844
+- Jumlah meninggal : 468
+- Jumlah dirawat : 3368
+[+] Kasus Penambahan
+- Penambahan positif : 153
+- Penambahan Sembuh : 26
+- Penambahan Meninggal : 2
+
+[+] PAPUA
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 20720
+- Jumlah sembuh : 11571
+- Jumlah meninggal : 213
+- Jumlah dirawat : 8936
+[+] Kasus Penambahan
+- Penambahan positif : 37
+- Penambahan Sembuh : 0
+- Penambahan Meninggal : 0
+
+[+] LAMPUNG
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 20392
+- Jumlah sembuh : 18070
+- Jumlah meninggal : 1086
+- Jumlah dirawat : 1236
+[+] Kasus Penambahan
+- Penambahan positif : 72
+- Penambahan Sembuh : 121
+- Penambahan Meninggal : 4
+
+[+] KEPULAUAN BANGKA BELITUNG
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 20336
+- Jumlah sembuh : 19318
+- Jumlah meninggal : 321
+- Jumlah dirawat : 697
+[+] Kasus Penambahan
+- Penambahan positif : 89
+- Penambahan Sembuh : 75
+- Penambahan Meninggal : 2
+
+[+] ACEH
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 18439
+- Jumlah sembuh : 14100
+- Jumlah meninggal : 745
+- Jumlah dirawat : 3594
+[+] Kasus Penambahan
+- Penambahan positif : 63
+- Penambahan Sembuh : 79
+- Penambahan Meninggal : 10
+
+[+] NUSA TENGGARA TIMUR
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 17468
+- Jumlah sembuh : 16153
+- Jumlah meninggal : 451
+- Jumlah dirawat : 864
+[+] Kasus Penambahan
+- Penambahan positif : 97
+- Penambahan Sembuh : 21
+- Penambahan Meninggal : 0
+
+[+] SULAWESI UTARA
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 16008
+- Jumlah sembuh : 15211
+- Jumlah meninggal : 551
+- Jumlah dirawat : 246
+[+] Kasus Penambahan
+- Penambahan positif : 39
+- Penambahan Sembuh : 16
+- Penambahan Meninggal : 1
+
+[+] KALIMANTAN BARAT
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 13367
+- Jumlah sembuh : 12167
+- Jumlah meninggal : 170
+- Jumlah dirawat : 1030
+[+] Kasus Penambahan
+- Penambahan positif : 125
+- Penambahan Sembuh : 117
+- Penambahan Meninggal : 14
+
+[+] SULAWESI TENGAH
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 13260
+- Jumlah sembuh : 12621
+- Jumlah meninggal : 387
+- Jumlah dirawat : 252
+[+] Kasus Penambahan
+- Penambahan positif : 23
+- Penambahan Sembuh : 16
+- Penambahan Meninggal : 0
+
+[+] NUSA TENGGARA BARAT
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 12803
+- Jumlah sembuh : 10619
+- Jumlah meninggal : 483
+- Jumlah dirawat : 1701
+[+] Kasus Penambahan
+- Penambahan positif : 11
+- Penambahan Sembuh : 43
+- Penambahan Meninggal : 0
+
+[+] KALIMANTAN UTARA
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 12707
+- Jumlah sembuh : 11867
+- Jumlah meninggal : 195
+- Jumlah dirawat : 645
+[+] Kasus Penambahan
+- Penambahan positif : 40
+- Penambahan Sembuh : 0
+- Penambahan Meninggal : 0
+
+[+] JAMBI
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 12171
+- Jumlah sembuh : 10021
+- Jumlah meninggal : 233
+- Jumlah dirawat : 1917
+[+] Kasus Penambahan
+- Penambahan positif : 141
+- Penambahan Sembuh : 140
+- Penambahan Meninggal : 3
+
+[+] SULAWESI TENGGARA
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 10791
+- Jumlah sembuh : 10154
+- Jumlah meninggal : 223
+- Jumlah dirawat : 414
+[+] Kasus Penambahan
+- Penambahan positif : 64
+- Penambahan Sembuh : 5
+- Penambahan Meninggal : 0
+
+[+] PAPUA BARAT
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 9725
+- Jumlah sembuh : 9285
+- Jumlah meninggal : 178
+- Jumlah dirawat : 262
+[+] Kasus Penambahan
+- Penambahan positif : 24
+- Penambahan Sembuh : 15
+- Penambahan Meninggal : 0
+
+[+] BENGKULU
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 9178
+- Jumlah sembuh : 8221
+- Jumlah meninggal : 187
+- Jumlah dirawat : 770
+[+] Kasus Penambahan
+- Penambahan positif : 101
+- Penambahan Sembuh : 0
+- Penambahan Meninggal : 0
+
+[+] MALUKU
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 8097
+- Jumlah sembuh : 7552
+- Jumlah meninggal : 133
+- Jumlah dirawat : 412
+[+] Kasus Penambahan
+- Penambahan positif : 40
+- Penambahan Sembuh : 64
+- Penambahan Meninggal : 0
+
+[+] GORONTALO
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 5690
+- Jumlah sembuh : 5341
+- Jumlah meninggal : 180
+- Jumlah dirawat : 169
+[+] Kasus Penambahan
+- Penambahan positif : 0
+- Penambahan Sembuh : 1
+- Penambahan Meninggal : 0
+
+[+] SULAWESI BARAT
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 5667
+- Jumlah sembuh : 5445
+- Jumlah meninggal : 121
+- Jumlah dirawat : 101
+[+] Kasus Penambahan
+- Penambahan positif : 3
+- Penambahan Sembuh : 0
+- Penambahan Meninggal : 0
+
+[+] MALUKU UTARA
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 4749
+- Jumlah sembuh : 4478
+- Jumlah meninggal : 123
+- Jumlah dirawat : 148
+[+] Kasus Penambahan
+- Penambahan positif : 36
+- Penambahan Sembuh : 3
+- Penambahan Meninggal : 0
+
+[+] SUMATERA_SELATAN
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 11
+- Jumlah sembuh : 6
+- Jumlah meninggal : 0
+- Jumlah dirawat : 5
+[+] Kasus Penambahan
+- Penambahan positif : 0
+- Penambahan Sembuh : 6
+- Penambahan Meninggal : 0
+
+[+] B`
+- Update terakhir :  2021-06-22
+- Jumlah kasus : 1
+- Jumlah sembuh : 0
+- Jumlah meninggal : 0
+- Jumlah dirawat : 1
+[+] Kasus Penambahan
+- Penambahan positif : 0
+- Penambahan Sembuh : 0
+- Penambahan Meninggal : 0
+
